@@ -5,9 +5,13 @@
 Exemplo de uso do algoritmo implementado por Yuri Boykov e Vladimir Kolmogorov.
 
 Use o Makefile para compilar o exemplo:
+
     $ make  
+
 Execute o programa de exemplo:
+
     $ ./maxflow
+
 
 ## Credits:
 
